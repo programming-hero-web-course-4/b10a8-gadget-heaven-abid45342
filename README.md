@@ -3,10 +3,10 @@
 Welcome to my E-commerce website built using React. This project allows users to browse and purchase products, manage a cart, and explore a wishlist. The website includes various features such as dynamic product sorting, cart management, and more.
 
 ## Live Website Link
-[Live Website](https://www.your-website-link.com)
+https://frolicking-creponne-e87721.netlify.app/
 
 ## Requirement Document Link
-[Requirement Document](https://www.your-requirement-doc-link.com)
+https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf
 
 ## React Fundamental Concepts Used
 - **JSX (JavaScript XML)**: Used for writing UI components in a syntax that resembles HTML.
