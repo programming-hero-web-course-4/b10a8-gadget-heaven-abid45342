@@ -166,7 +166,7 @@ const Home = () => {
 
     // Fetch Products
     useEffect(() => {
-        fetch('/Product.json') // Adjust to the actual path
+        fetch('Product.json') // Adjust to the actual path
             .then((res) => res.json())
             .then((data) => {
                 setProducts(data.products);

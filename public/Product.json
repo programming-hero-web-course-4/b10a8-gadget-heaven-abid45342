@@ -5,7 +5,7 @@
       "category": "Laptops",
       "name": "Dell XPS 13",
       "price": 99999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/SdZ7zT1/image.png",
       "description": "Ultra-portable laptop with powerful performance and InfinityEdge display.",
       "specifications": [
         "Intel i7 11th Gen",
@@ -21,7 +21,7 @@
       "category": "Laptops",
       "name": "MacBook Pro 16",
       "price": 199999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/GcNkL7d/image.png",
       "description": "High-performance laptop with M1 Pro chip and Liquid Retina XDR display.",
       "specifications": [
         "Apple M1 Pro Chip",
@@ -37,7 +37,7 @@
       "category": "Phones",
       "name": "iPhone 13 Pro",
       "price": 129999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/Rjbynhv/image.png",
       "description": "Flagship iPhone with ProMotion display and A15 Bionic chip.",
       "specifications": [
         "6.1-inch Super Retina XDR",
@@ -53,7 +53,7 @@
       "category": "Phones",
       "name": "Samsung Galaxy S22",
       "price": 119999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/0mT0sNF/image.png",
       "description": "Premium smartphone with dynamic AMOLED display and Exynos 2200.",
       "specifications": [
         "6.1-inch Dynamic AMOLED 2X",
@@ -69,7 +69,7 @@
       "category": "Smart Watches",
       "name": "Apple Watch Series 7",
       "price": 49999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/vVR5WTS/image.png",
       "description": "Advanced smartwatch with always-on Retina display and health tracking.",
       "specifications": [
         "45mm Always-On Retina Display",
@@ -85,7 +85,7 @@
       "category": "Smart Watches",
       "name": "Samsung Galaxy Watch 4",
       "price": 29999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/gWfN3X7/image.png",
       "description": "Smartwatch with advanced health tracking and Wear OS.",
       "specifications": [
         "44mm Super AMOLED Display",
@@ -101,7 +101,7 @@
       "category": "MacBook",
       "name": "MacBook Air M1",
       "price": 99999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/wwMRGHv/image.png",
       "description": "Ultra-slim laptop with powerful M1 chip and long battery life.",
       "specifications": [
         "Apple M1 Chip",
@@ -117,7 +117,7 @@
       "category": "MacBook",
       "name": "MacBook Pro 14",
       "price": 149999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/nLJmsdM/image.png",
       "description": "Pro-grade performance with M1 Pro chip and XDR display.",
       "specifications": [
         "Apple M1 Pro Chip",
@@ -133,7 +133,7 @@
       "category": "Iphone",
       "name": "iPhone 14",
       "price": 139999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/GtJX2qq/image.png",
       "description": "Latest iPhone with A15 Bionic chip and improved camera system.",
       "specifications": [
         "6.1-inch Super Retina XDR",
@@ -149,7 +149,7 @@
       "category": "Iphone",
       "name": "iPhone SE 2022",
       "price": 79999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/4skvmsF/image.png",
       "description": "Compact iPhone with A15 Bionic chip and Touch ID.",
       "specifications": [
         "4.7-inch Retina HD Display",
@@ -180,7 +180,7 @@
       "category": "Accessories",
       "name": "Portable Power Bank",
       "price": 9999,
-      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "image": "https://i.ibb.co.com/cXKzwm1/image.png",
       "description": "Compact power bank with 20,000mAh capacity and fast charging.",
       "specifications": [
         "20,000mAh Capacity",
