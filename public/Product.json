@@ -1,0 +1,194 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Laptops",
+      "name": "Dell XPS 13",
+      "price": 99999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Ultra-portable laptop with powerful performance and InfinityEdge display.",
+      "specifications": [
+        "Intel i7 11th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "13.3-inch FHD Display"
+      ],
+      "stock": "In Stock",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "category": "Laptops",
+      "name": "MacBook Pro 16",
+      "price": 199999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "High-performance laptop with M1 Pro chip and Liquid Retina XDR display.",
+      "specifications": [
+        "Apple M1 Pro Chip",
+        "32GB RAM",
+        "1TB SSD",
+        "16.2-inch Retina Display"
+      ],
+      "stock": "In Stock",
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "category": "Phones",
+      "name": "iPhone 13 Pro",
+      "price": 129999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Flagship iPhone with ProMotion display and A15 Bionic chip.",
+      "specifications": [
+        "6.1-inch Super Retina XDR",
+        "A15 Bionic Chip",
+        "128GB Storage",
+        "Triple 12MP Camera System"
+      ],
+      "stock": "In Stock",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "category": "Phones",
+      "name": "Samsung Galaxy S22",
+      "price": 119999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Premium smartphone with dynamic AMOLED display and Exynos 2200.",
+      "specifications": [
+        "6.1-inch Dynamic AMOLED 2X",
+        "Exynos 2200",
+        "8GB RAM",
+        "128GB Storage"
+      ],
+      "stock": "In Stock",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "category": "Smart Watches",
+      "name": "Apple Watch Series 7",
+      "price": 49999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Advanced smartwatch with always-on Retina display and health tracking.",
+      "specifications": [
+        "45mm Always-On Retina Display",
+        "Blood Oxygen Monitoring",
+        "Water Resistant",
+        "18-hour Battery Life"
+      ],
+      "stock": "In Stock",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "category": "Smart Watches",
+      "name": "Samsung Galaxy Watch 4",
+      "price": 29999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Smartwatch with advanced health tracking and Wear OS.",
+      "specifications": [
+        "44mm Super AMOLED Display",
+        "Body Composition Analysis",
+        "Wear OS Powered",
+        "Wireless Charging"
+      ],
+      "stock": "In Stock",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "category": "MacBook",
+      "name": "MacBook Air M1",
+      "price": 99999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Ultra-slim laptop with powerful M1 chip and long battery life.",
+      "specifications": [
+        "Apple M1 Chip",
+        "8GB RAM",
+        "256GB SSD",
+        "13.3-inch Retina Display"
+      ],
+      "stock": "In Stock",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "category": "MacBook",
+      "name": "MacBook Pro 14",
+      "price": 149999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Pro-grade performance with M1 Pro chip and XDR display.",
+      "specifications": [
+        "Apple M1 Pro Chip",
+        "16GB RAM",
+        "512GB SSD",
+        "14.2-inch XDR Display"
+      ],
+      "stock": "In Stock",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "category": "Iphone",
+      "name": "iPhone 14",
+      "price": 139999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Latest iPhone with A15 Bionic chip and improved camera system.",
+      "specifications": [
+        "6.1-inch Super Retina XDR",
+        "A15 Bionic Chip",
+        "128GB Storage",
+        "Dual 12MP Camera"
+      ],
+      "stock": "In Stock",
+      "rating": 4.9
+    },
+    {
+      "id": 10,
+      "category": "Iphone",
+      "name": "iPhone SE 2022",
+      "price": 79999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Compact iPhone with A15 Bionic chip and Touch ID.",
+      "specifications": [
+        "4.7-inch Retina HD Display",
+        "A15 Bionic Chip",
+        "64GB Storage",
+        "Single 12MP Camera"
+      ],
+      "stock": "In Stock",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "category": "Accessories",
+      "name": "Noise Cancelling Headphones",
+      "price": 19999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Over-ear headphones with active noise cancellation and premium sound.",
+      "specifications": [
+        "Wireless",
+        "40-hour Battery Life",
+        "Active Noise Cancellation"
+      ],
+      "stock": "In Stock",
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "category": "Accessories",
+      "name": "Portable Power Bank",
+      "price": 9999,
+      "image": "https://i.ibb.co.com/DMMyWDC/image.png",
+      "description": "Compact power bank with 20,000mAh capacity and fast charging.",
+      "specifications": [
+        "20,000mAh Capacity",
+        "Fast Charging",
+        "Dual USB Ports"
+      ],
+      "stock": "In Stock",
+      "rating": 4.4
+    }
+  ]
+}
