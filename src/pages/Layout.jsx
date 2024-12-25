@@ -8,7 +8,7 @@ import Footer from './Footer';
 const Layout = () => {
     return (
         <div className='font-sora relative  '>
-          <main className='p-8 max-w-[1280px] mx-auto ' >
+          <main className='p-8 max-w-[1280px] mx-auto  ' >
           <Navbar></Navbar>
            
            <Outlet></Outlet>

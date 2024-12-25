@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className=" bg-gray-100 py-10 ">
+    <footer className=" bg-gray-100 py-10  ">
       <div className="container mx-auto text-center">
         <h2 className="text-2xl font-bold">Gadget Heaven</h2>
         <p className="mt-2 mb-8">Leading the way in cutting-edge technology and innovation.</p>
